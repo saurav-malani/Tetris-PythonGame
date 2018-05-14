@@ -1,7 +1,8 @@
 """
 
-Name : Aakash K.T.
-20161202
+Name : Saurav Malani.
+201502047
+
 
 If possible, compile using python3
 This game was made and tested keeping python3 in mind.
